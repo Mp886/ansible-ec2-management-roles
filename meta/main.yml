@@ -1,7 +1,6 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Mp886
+  description: Management of ec2. Creates three ec2 instances with different amazon machine images with using LOOP concept
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
